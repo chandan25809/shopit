@@ -1,0 +1,35 @@
+[
+    {
+        "name":"Apple ear pods",
+        "price":15000,
+        "description":"Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage. Connectivity options include Wi-Fi 802.11 ac, Bluetooth and it comes with 2 USB ports (2 x USB 3.0), Mic In ports.",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/tsgxvanxbnabs",
+            "url":"https://previews.123rf.com/images/gawriloff/gawriloff1710/gawriloff171000064/87318429-moscow-russia-october-07-2017-apple-airpods-wireless-bluetooth-headphones-unboxing-with-a-microphone.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Costco",
+        "stock":15,
+        "numOfReviews": 52,
+        "reviews":[]
+    },
+    {
+        "name":"Apple watch",
+        "price":20000,
+        "description":"Apple MacBook  is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage. Connectivity options include Wi-Fi 802.11 ac, Bluetooth and it comes with 2 USB ports (2 x USB 3.0), Mic In ports.",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/tsgxvanxbnabs",
+            "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzEPV07A1JirtyxkBHE_6mYSn__41JOBPSQ&usqp=CAU"
+        },{
+            "public_id":"products/tsgxvanxbndsjbs",
+            "url":"https://res.cloudinary.com/octopuscdn/image/upload/f_auto/powermaccenter/images/products/s_42077/large_MTEY2THA-1.png"
+        }],
+        "category":"Electronics",
+        "seller":"Costco",
+        "stock":50,
+        "numOfReviews": 52,
+        "reviews":[]
+    }
+]
